@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/chialin-portfolio/static/css/main.54e9274b.css",
+    "main.js": "/chialin-portfolio/static/js/main.43943a83.js",
+    "static/css/64.bba8fa55.chunk.css": "/chialin-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.8ecdbcbb.chunk.js": "/chialin-portfolio/static/js/64.8ecdbcbb.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/chialin-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.df1eaf2c.chunk.js": "/chialin-portfolio/static/js/769.df1eaf2c.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/chialin-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/sinica.png": "/chialin-portfolio/static/media/sinica.ef6789ef3a7dbeb9240e.png",
+    "static/media/nthu.jpeg": "/chialin-portfolio/static/media/nthu.5deadd06154719e05776.jpeg",
+    "static/media/iii.png": "/chialin-portfolio/static/media/iii.bf7fc0357767dbca7e66.png",
+    "static/media/Agustina.woff": "/chialin-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/umn.png": "/chialin-portfolio/static/media/umn.dfc49118bcc2058e92f9.png",
+    "static/media/profilePhoto.jpg": "/chialin-portfolio/static/media/profilePhoto.3830e806c28ba0960fe3.jpg",
+    "static/media/jpmorgan.png": "/chialin-portfolio/static/media/jpmorgan.74b2a17a47aa428d3744.png",
+    "static/media/contactMailDark.svg": "/chialin-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/ICCAD2022.jpeg": "/chialin-portfolio/static/media/ICCAD2022.458946de4b207805f49b.jpeg",
+    "static/media/undraw_working_remotely_re_6b3a.svg": "/chialin-portfolio/static/media/undraw_working_remotely_re_6b3a.3f2a40fcc7406b9686f2823757c92812.svg",
+    "static/media/skill.svg": "/chialin-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/chialin-portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/chialin-portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/chialin-portfolio/index.html",
+    "static/media/talksCardBack.svg": "/chialin-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.54e9274b.css.map": "/chialin-portfolio/static/css/main.54e9274b.css.map",
+    "main.43943a83.js.map": "/chialin-portfolio/static/js/main.43943a83.js.map",
+    "64.bba8fa55.chunk.css.map": "/chialin-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.8ecdbcbb.chunk.js.map": "/chialin-portfolio/static/js/64.8ecdbcbb.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/chialin-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.df1eaf2c.chunk.js.map": "/chialin-portfolio/static/js/769.df1eaf2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e9274b.css",
+    "static/js/main.43943a83.js"
+  ]
+}
