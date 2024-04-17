@@ -336,17 +336,17 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@julie_cheng/2023%E5%B9%B4-%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%A4%A7%E5%AD%B8%E4%BA%A4%E6%8F%9B%E5%85%A8%E8%A8%98%E9%8C%84-de68a0f2b2",
+      title: "Being an exchange student at UMN",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "click to check out full story on Medium"
     }
+    // {
+    //   url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+    //   title: "Why REACT is The Best?",
+    //   description:
+    //     "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
