@@ -137,7 +137,7 @@ const educationInfo = {
       duration: "September 2024 - December 2025",
       // desc: "xxx",
       descBullets: [
-        "Course: Mobile App Development IOS, Artificial Intelligence, Introduction to Database, Design Using C++",
+        "Course: Natural Language Processing, Cloud Computing, Algorithms for Data Science, Artificial Intelligence",
         // "xxx"
       ]
     },
@@ -194,11 +194,11 @@ const workExperiences = {
       date: "April 2024 – July 2024",
       desc: "Software Technology Institute",
       descBullets: [
-        "Currently working on it."
+        "Developed a Retrieval-Augmented Generation (RAG) system to streamline senior citizen healthcare assessments, integrating speech-to-text, text embedding, data processing, and AI-driven healthcare planning."
       ]
     },
     {
-      role: "Research Assistant",
+      role: "Software Developer",
       company: "Academia Sinica",
       companylogo: require("./assets/images/sinica.png"),
       date: "August 2023 - April 2024",
@@ -387,7 +387,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? Feel free to connect with me.",
-  number: "+886 966453396",
+  // number: "+886 966453396",
   email_address: "cc5210@columbia.edu"
 };
 
