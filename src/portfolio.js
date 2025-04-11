@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Chialin Cheng",
+  username: "Chia-Lin Cheng",
   title: "Hi",
   subTitle: emoji(
-    "I'm Chialin. A software engineer and researcher."
+    "I'm Chia-Lin. A software engineer and researcher."
   ),
   // resumeLink:
   //   "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ccl1616",
-  linkedin: "https://www.linkedin.com/in/chialin-cheng-3412731a1/",
+  linkedin: "https://www.linkedin.com/in/chialin-julie-cheng/",
   gmail: "cc5210@columbia.edu",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
