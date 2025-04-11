@@ -105,10 +105,10 @@ https://fontawesome.com/icons?d=gallery */
     //   fontAwesomeClassname: "fab fa-swift"
     // },
     
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
+    // {
+    //   skillName: "firebase",
+    //   fontAwesomeClassname: "fas fa-fire"
+    // },
     {
       skillName: "git",
       fontAwesomeClassname: "fab fa-github-square"
