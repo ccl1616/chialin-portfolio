@@ -137,7 +137,7 @@ const educationInfo = {
       duration: "September 2024 - December 2025",
       // desc: "xxx",
       descBullets: [
-        "Course: Natural Language Processing, Cloud Computing, Algorithms for Data Science, Artificial Intelligence",
+        "Course: [2024] Natural Language Processing, Cloud Computing, Algorithms for Data Science, Artificial Intelligence. [2025] Embedded Scalable Platforms, Neural Rendering for Computer Graphics, Advanced Big Data and AI, Networks Crowds and the Web",
         // "xxx"
       ]
     },
